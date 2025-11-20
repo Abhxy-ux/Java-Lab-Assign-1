@@ -99,6 +99,6 @@ Scanner for input
 
 Author
 
-BHAVISHYA SAIN
+ABHAY
 B.Tech CSE Core
 Section B
